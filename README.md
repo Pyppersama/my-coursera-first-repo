@@ -1,2 +1,2 @@
-# my-coursera-first-repo-minor-update
+# my-coursera-first-repo!
 practice account for learning git
